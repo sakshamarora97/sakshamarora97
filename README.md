@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 📫 - If you share a passion for leveraging data to drive innovation and solve complex problems, I'd love to connect. Feel free to reach out on LinkedIn or via email, and let's embark on a data-driven journey together!
 
-⚡ - Fun fact: I'm a piano player and love hitting the gym! Also love listening to podcasts discussing the journey of entrepreneurs 
+⚡ - Fun facts: I enjoy cooking🍳, hitting the gym🏋️, and am a piano player🎹! Also love listening to podcasts discussing the journey of entrepreneurs🚀🚀
