@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 - Greetings! I'm Saksham, a Data Scientist with a skill set that encompasses data crunching, product analytics, statistical modeling, and proficiency in machine learning, Python programming.
+👋 - Greetings! I'm Saksham, a Data Scientist with a skill set that spans from product analytics and statistical modeling to proficiency in machine learning, deep learning using Python.
 
-🔭 - My journey has traversed diverse industries, including e-commerce, retail, consulting - consumer survey insights, and B2B SaaS. This breadth of experience has shaped my ability to navigate complex challenges and deliver impactful insights.
+🔭 - In my journey I've traversed diverse industries, including e-commerce, retail, consulting - consumer survey insights, and B2B SaaS. This breadth of experience has shaped my ability to navigate complex challenges and deliver impactful insights.
 
 🌱 - Currently, I'm driven by a curiosity to explore the realms of Natural Language Processing (NLP) and Graph Machine Learning. These burgeoning interests align with my passion for pushing the boundaries of data science to uncover new possibilities and solutions.
 
