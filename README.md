@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 - Greetings! I'm Saksham, a Data Scientist with a skill set that spans from product analytics and statistical modeling to proficiency in machine learning, deep learning using Python.
+👋 - Greetings! I'm Saksham, a Data Scientist with 3+ years of experience. During my journey I've worked mostly closely in e-commerce, retail and consulting. This breadth of industry experience has shaped my ability to navigate complex challenges and deliver impactful results.
 
-🔭 - In my journey I've traversed diverse industries, including e-commerce, retail, consulting - consumer survey insights, and B2B SaaS. This breadth of experience has shaped my ability to navigate complex challenges and deliver impactful insights.
+🌱 - Currently, I'm driven by a curiosity to explore the realms of Natural Language Processing (NLP) and Recommendation Systems. These burgeoning interests align with my passion for pushing the boundaries of data science to uncover new possibilities and solutions.
 
-🌱 - Currently, I'm driven by a curiosity to explore the realms of Natural Language Processing (NLP) and Graph Machine Learning. These burgeoning interests align with my passion for pushing the boundaries of data science to uncover new possibilities and solutions.
-
-🏆 - Among my notable achievements is the Pint Award at AbInBev, a recognition that underscores my commitment to excellence and innovative contributions within the field. As a data scientist, I am constantly evolving and adapting to the ever-changing landscape of data analytics.
+🏆 - Among my notable achievements is the Pint Award at AbInBev, a recognition that underscores my commitment to excellence and innovative contributions within the field. As a data scientist, I am constantly evolving and adapting to the ever-changing landscape of data analytics. I've also enjoyed taking part in data science hackathons and love the competitive spirit - EXL EQ 2018(at NSIT) and Hacklytics 2023(GaTech)
 
 📫 - If you share a passion for leveraging data to drive innovation and solve complex problems, I'd love to connect. Feel free to reach out on LinkedIn or via email, and let's embark on a data-driven journey together!
 
